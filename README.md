@@ -30,9 +30,9 @@ I am a **self-driven, highly motivated,** and **result-oriented** individual, al
   <img src="https://1000logos.net/wp-content/uploads/2022/07/Kubernetes-Logo.png" height="40" alt="kubernetes logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Jenkins_logo_with_title.svg" height="40" alt="Jenkins logo"  />
-  <img width="12" />
-  <img src="https://miro.medium.com/v2/resize:fit:782/1*JTWb-JQDkYrrYUgzUHfH_g.png" height="40" alt="Terraform logo"  />
   <img width="12" /><br></br>
+  <img src="https://miro.medium.com/v2/resize:fit:782/1*JTWb-JQDkYrrYUgzUHfH_g.png" height="40" alt="Terraform logo"  />
+  <img width="12" />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYSjUGayPWYjwfHvRRiS9NOvPr5SHFz1x8JQ&s" height="40" alt="GitLab logo"  />
   <img width="12" />
   <br>
