@@ -1,7 +1,7 @@
 
 <br>
 
-## 👋 Hi, I am [Imtiyaj Ansari](www.linkedin.com/in/imtiyaj-ansari-51021569), 
+## 👋 Hi, I am [Imtiyaj Ansari](https://www.linkedin.com/in/imtiyaj-ansari-51021569/), 
 
 <br>
 
@@ -47,7 +47,7 @@ I am a **self-driven, highly motivated,** and **result-oriented** individual, al
 📫 **How to reach me** 
 
 -  **📧 [Email](mailto:imti.ansari007@gmail.com)**
--  **💼 [LinkedIn](www.linkedin.com/in/imtiyaj-ansari-51021569)**
+-  **💼 [LinkedIn](https://www.linkedin.com/in/imtiyaj-ansari-51021569/)**
 
 
   
