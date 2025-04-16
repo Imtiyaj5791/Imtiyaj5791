@@ -6,7 +6,7 @@
 <br>
 
 
-**Dedicated and detail-oriented IT professional** with over **9 years of experience** as a **Linux Administrator** and **Sr. System Engineer** from [🇮🇳](https://en.wikipedia.org/wiki/India) , eager to transition into a **DevOps role.**
+**Dedicated and detail-oriented IT professional** with over **9 years of experience** as a **SupportEngineer** and **Sr. System Engineer** from [🇮🇳](https://en.wikipedia.org/wiki/India) , eager to transition into a **DevOps role.**
 
 I am a **self-driven, highly motivated,** and **result-oriented** individual, always striving to deliver the best outcomes for my employer and clients. I am **flexible, adaptable,** and a **proactive self-learner**, constantly exploring new technologies to **enhance my skills and contribute to an organization's success.**
 <br></br>
