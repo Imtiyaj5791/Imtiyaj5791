@@ -11,7 +11,7 @@
 I am a **self-driven, highly motivated,** and **result-oriented** individual, always striving to deliver the best outcomes for my employer and clients. I am **flexible, adaptable,** and a **proactive self-learner**, constantly exploring new technologies to **enhance my skills and contribute to an organization's success.**
 <br></br>
 <div align="center">
-<img src="https://media.licdn.com/dms/image/v2/C4D12AQHEozYv3E5rdA/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1612876678427?e=2147483647&v=beta&t=Q981mQQlvzPASxakzdT8BnmsAJvPyn0sRnp-0Q0teLM" width="600" height="300" >
+<img src="https://camo.githubusercontent.com/21a854b4858cf3cf6549213d8a750302f74e517f39df4a77474229112887a6c5/68747470733a2f2f63646e2e6472696262626c652e636f6d2f7573657275706c6f61642f373732353831342f66696c652f6f726967696e616c2d61643334653561336435383761386139306236353836646536373731303232352e676966" width="600" height="300" >
 </div>
 
 
