@@ -32,14 +32,6 @@ I am a **self-driven, highly motivated,** and **result-oriented** individual, al
   <img width="12" /><br></br>
   <img src="https://miro.medium.com/v2/resize:fit:782/1*JTWb-JQDkYrrYUgzUHfH_g.png" height="40" alt="Terraform logo"  />
   <img width="12" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYSjUGayPWYjwfHvRRiS9NOvPr5SHFz1x8JQ&s" height="40" alt="GitLab logo"  />
-  <img width="12" />
-  <img src="https://cdn.freelogovectors.net/wp-content/uploads/2018/07/grafana-logo.png" height="40" alt="grafana logo"  />
-  <img width="12" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxsKIL70Jr7E-g1Ij5QlV36XAK1mQ9vQ4Hiw&s" height="40" alt="Prometheus logo"  /> 
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Zabbix_logo.svg/2500px-Zabbix_logo.svg.png" height="40" alt="Zabbix logo"  /> 
-  <img width="12" />
   <img src="https://cdn.freelogovectors.net/wp-content/uploads/2018/11/nagios-logo.png" height="40" alt="Nagios logo"  /> 
   <img width="12" />
 </div>
