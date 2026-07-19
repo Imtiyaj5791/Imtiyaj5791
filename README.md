@@ -20,8 +20,6 @@ I am a **self-driven, highly motivated,** and **result-oriented** individual, al
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj62sisbPMYSHtLlU0m7P6HtS7B-WefYgdKWpbW_QHt-zfYPPwSMH9CChXt464pWFfYK8&usqp=CAU" height="40" alt="shell scripting logo"  />
 
   <img width="12" />
-  <img src="https://brandlogos.net/wp-content/uploads/2023/08/nginx-logo_brandlogos.net_9uzg3-512x202.png" height="40" alt="nginx logo"  />
-  <img width="12" />
   <img src="https://cdn.worldvectorlogo.com/logos/amazon-web-services-1.svg" height="40" alt="aws logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
@@ -31,8 +29,6 @@ I am a **self-driven, highly motivated,** and **result-oriented** individual, al
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Jenkins_logo_with_title.svg" height="40" alt="Jenkins logo"  />
   <img width="12" /><br></br>
   <img src="https://miro.medium.com/v2/resize:fit:782/1*JTWb-JQDkYrrYUgzUHfH_g.png" height="40" alt="Terraform logo"  />
-  <img width="12" />
-  <img src="https://cdn.freelogovectors.net/wp-content/uploads/2018/11/nagios-logo.png" height="40" alt="Nagios logo"  /> 
   <img width="12" />
 </div>
 <dr></dr>
